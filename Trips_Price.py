@@ -78,4 +78,6 @@ if st.button("Predict"):
 
     st.write("### Prediction")
     st.write(f"Price Category : {price_category_desc}")
+st.markdown("---")
+st.markdown("© 2024 Shravan Kumar Polu")
 
